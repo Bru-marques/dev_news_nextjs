@@ -1,8 +1,9 @@
 ## Dev news
 
-<div align="center" display="flex id="top">            
-  <img src="./src/assets/finance2.png" alt="02 Dtmoney" /> 
-</div>
+<!--
+<div align="center" display="flex id="top">
+  <img src="./src/assets/finance2.png" alt="02 Dtmoney" />
+</div> -->
 
 <hr/>
 <br>
@@ -13,26 +14,28 @@ This is a personal finance manager application using MirageJS as an API mocking 
 
 ## Screenshots
 
-<div align="center" id="top"> 
-  <img src="./src/assets/financeApp.png" alt="02 Dtmoney" /> 
- 
+<!-- <div align="center" id="top">
+  <img src="./src/assets/financeApp.png" alt="02 Dtmoney" />
+
 </div>
 <br/>
 <br/>
-<div align="center" id="top"> 
- <img src="./src/assets/finance2.png" alt="02 Dtmoney" /> 
+<div align="center" id="top">
+ <img src="./src/assets/finance2.png" alt="02 Dtmoney" />
 </div>
 <br/>
 <br/>
-<div align="center" id="top"> 
- <img src="./src/assets/finance3.png" alt="02 Dtmoney" /> 
-</div>
+<div align="center" id="top">
+ <img src="./src/assets/finance3.png" alt="02 Dtmoney" />
+</div> -->
 
 ## Features
 
-- Table with personal finance data with name, amount, category and date.
+<!-- - Table with personal finance data with name, amount, category and date.
 - Summary cards with incomes, outcomes and balance.
-- New transaction modal.
+- New transaction modal. -->
+
+WIP
 
 ## Technologies
 
@@ -41,8 +44,8 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [MirageJS](https://miragejs.com/)
-<!-- - [Polished](https://polished.js.org/)
+  <!-- - [MirageJS](https://miragejs.com/) -->
+  <!-- - [Polished](https://polished.js.org/)
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://styled-components.com/) -->
 
